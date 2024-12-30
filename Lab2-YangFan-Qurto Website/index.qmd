@@ -1,0 +1,13 @@
+---
+title: "Yang Fan's website and data analysis portfolio"
+---
+
+::: {.content-block}
+# Hello, and thanks for visiting!
+
+Welcome to my website and *data analysis portfolio*.
+
+Here, I'll feature my projects for the Fall 2024 Informational technologies in Business class.
+
+Please use the Menu Bar above to look around.
+:::

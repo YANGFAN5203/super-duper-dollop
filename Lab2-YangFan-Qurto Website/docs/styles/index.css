@@ -1,0 +1,110 @@
+/* css styles */
+.navbar {
+    background-color: #aa0000;
+}
+
+/* 导航栏版心效果 */
+.navbar > .container-fluid {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: rgba(255, 255, 255, 0.8) !important;
+    transition: color 0.3s ease;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* 内容区样式 */
+.content-block {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    text-align: left;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+}
+
+/* About页面特殊样式 */
+.about-section {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.about-section h1 {
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #34495e;
+    max-width: 600px;
+    margin: 0 auto 1rem;
+}
+
+.about-section img {
+    max-width: 500px;
+    width: 100%;
+    border-radius: 12px;
+    margin: 2rem 0;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #2c3e50;
+    margin: 1rem 0 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    border-bottom: 2px solid #aa0000;
+    padding-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.content-block p {
+    color: #34495e;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    font-size: 1.05rem;
+}
+
+.content-block ul {
+    color: #34495e;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    padding-left: 1.2rem;
+}
+
+.content-block li {
+    margin-bottom: 0.5rem;
+    font-size: 1.05rem;
+}
+
+.github-icon {
+    font-size: 1.2rem;
+    color: white !important;
+}
+
+main {
+    /* background-color: #f8f9fa; */
+    min-height: calc(100vh - 56px);
+    padding: 2rem 0;
+}
+
+
+.quarto-alternate-notebooks {
+    display: none!important;
+}

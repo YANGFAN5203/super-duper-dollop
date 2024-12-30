@@ -1,0 +1,40 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      # 添加这行以确保显示代码
+  output: true    # 添加这行以显示输出（如果有的话）
+  warning: false  # 隐藏警告
+  error: false    # 隐藏错误
+jupyter: python3
+---
+
+
+# 01Chipotle-Exercises-with-solutions
+{{< embed "labs/Labexercises/01Chipotle-Exercises-with-solutions.ipynb" echo=true >}}
+
+# 01Occupation-Exercises-with-solutions
+{{< embed "labs/Labexercises/01Occupation-Exercises-with-solutions.ipynb" echo=true >}}
+
+# 01World-Food-Facts-Exercises-with-solutions
+{{< embed "labs/Labexercises/01World-Food-Facts-Exercises-with-solutions.ipynb" echo=true >}}
+
+# 02Chipotle-Exercises-with-solutions
+{{< embed "labs/Labexercises/02Chipotle-Exercises-with-solutions.ipynb" echo=true >}}
+
+# 02Euro12-Exercises-with-solutions
+{{< embed "labs/Labexercises/02Euro12-Exercises-with-solutions.ipynb" echo=true >}}
+
+# 03Chipotle-Exercises-with-solutions(1)
+{{< embed "labs/Labexercises/03Chipotle-Exercises-with-solutions(1).ipynb" echo=true >}}
+
+# 03Scores-Exercises-with-solutions
+{{< embed "labs/Labexercises/03Scores-Exercises-with-solutions.ipynb" echo=true >}}

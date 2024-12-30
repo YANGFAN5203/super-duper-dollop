@@ -1,0 +1,40 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      # 添加这行以确保显示代码
+  output: true    # 添加这行以显示输出（如果有的话）
+  warning: false  # 隐藏警告
+  error: false    # 隐藏错误
+jupyter: python3
+---
+
+# Lecture1-code-basics
+{{< embed "homework/Lecture1-code-basics.ipynb" echo=true >}}
+
+# Lecture1-data-analysis-quickstart
+{{< embed "homework/Lecture1-data-analysis-quickstart.ipynb" echo=true >}}
+
+# Lecture1-workflow-basics
+{{< embed "homework/Lecture1-workflow-basics.ipynb" echo=true >}}
+
+# Lecture2-homework-pet-names
+{{< embed "homework/Lecture2-homework-pet-names.ipynb" echo=true >}}
+
+# Lecture3-homework1
+{{< embed "homework/Lecture3-homework1-YangFan.ipynb" echo=true >}}
+
+# Lecture3-homework2
+{{< embed "homework/Lecture3-homework2-YangFan.ipynb" echo=true >}}
+
+# Lecture4-homework
+{{< embed "homework/Lecture4-homework-YangFan.ipynb" echo=true >}}
+

@@ -1,0 +1,12 @@
+{
+  "hash": "9decb166f81a5d0f7286af2a6673dc26",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n\n\n# Practice1-Climate-change\n\n\n\n\n{{< embed \"labs/Practice/Practice1-Climate-change.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Practice2-Collecting-and-analysing-data-from-experiments\n\n\n\n\n{{< embed \"labs/Practice/Practice2-Collecting-and-analysing-data-from-experiments.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Practice2-Recreate-the-matplotlib-plots-using-letsplot-library\n\n\n\n\n{{< embed \"labs/Practice/Practice2-Recreate-the-matplotlib-plots-using-letsplot-library.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Practice3-DouBan-top250-visualizations\n\n\n\n\n{{< embed \"labs/Practice/Practice3-DouBan-top250-visualizations.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Practice3-Extracting-data\n\n\n\n\n{{< embed \"labs/Practice/Practice3-Extracting-data.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Practice3-scrape-imdb-movie-rating-and-details\n\n\n\n\n{{< embed \"labs/Practice/Practice3-scrape-imdb-movie-rating-and-details.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Practice4-IMDb-and-Douban-top-250-movie-datasets\n\n\n\n\n{{< embed \"labs/Practice/Practice4-IMDb-and-Douban-top-250-movie-datasets.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "practice_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

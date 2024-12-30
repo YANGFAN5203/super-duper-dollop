@@ -1,0 +1,43 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-fold: false
+    highlight-style: github
+    html-math-method: katex
+execute:
+  eval: false
+  enabled: true
+  echo: true      # 添加这行以确保显示代码
+  output: true    # 添加这行以显示输出（如果有的话）
+  warning: false  # 隐藏警告
+  error: false    # 隐藏错误
+jupyter: python3
+---
+
+
+# Practice1-Climate-change
+{{< embed "labs/Practice/Practice1-Climate-change.ipynb" echo=true >}}
+
+# Practice2-Collecting-and-analysing-data-from-experiments
+{{< embed "labs/Practice/Practice2-Collecting-and-analysing-data-from-experiments.ipynb" echo=true >}}
+
+# Practice2-Recreate-the-matplotlib-plots-using-letsplot-library
+{{< embed "labs/Practice/Practice2-Recreate-the-matplotlib-plots-using-letsplot-library.ipynb" echo=true >}}
+
+# Practice3-DouBan-top250-visualizations
+{{< embed "labs/Practice/Practice3-DouBan-top250-visualizations.ipynb" echo=true >}}
+
+# Practice3-Extracting-data
+{{< embed "labs/Practice/Practice3-Extracting-data.ipynb" echo=true >}}
+
+# Practice3-scrape-imdb-movie-rating-and-details
+{{< embed "labs/Practice/Practice3-scrape-imdb-movie-rating-and-details.ipynb" echo=true >}}
+
+# Practice4-IMDb-and-Douban-top-250-movie-datasets
+{{< embed "labs/Practice/Practice4-IMDb-and-Douban-top-250-movie-datasets.ipynb" echo=true >}}
+
+
+

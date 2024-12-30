@@ -1,0 +1,12 @@
+{
+  "hash": "f3e8f488a66446eab4c40b198f962616",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n\n# Lecture1-code-basics\n\n\n\n\n{{< embed \"homework/Lecture1-code-basics.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture1-data-analysis-quickstart\n\n\n\n\n{{< embed \"homework/Lecture1-data-analysis-quickstart.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture1-workflow-basics\n\n\n\n\n{{< embed \"homework/Lecture1-workflow-basics.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture2-homework-pet-names\n\n\n\n\n{{< embed \"homework/Lecture2-homework-pet-names.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture3-homework1\n\n\n\n\n{{< embed \"homework/Lecture3-homework1-YangFan.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture3-homework2\n\n\n\n\n{{< embed \"homework/Lecture3-homework2-YangFan.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture4-homework\n\n\n\n\n{{< embed \"homework/Lecture4-homework-YangFan.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "homework_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,48 @@
+---
+title: ""
+---
+
+::: {.content-block .about-section}
+# Hi, I'm Yang Fan!
+
+![](images/profile.jpg)
+
+I'm a graduate student studying Education Management. I'm from Sichuan province, which locates in the southwest of China. The reason why I choose this major is because I'm an English teacher working in a Chinese college. And my undergraduate major is English Translation. 
+
+I love English and also love to be a teacher.
+:::
+
+::: {.content-block}
+## Education Experience
+
+During my undergraduate years, I studied in the English Translation major, embarking on a journey of in-depth exploration of knowledge.
+
+The curriculum was diverse and elaborate. From basic English-Chinese and Chinese-English translation courses that strengthened my skills in text conversion to consecutive interpretation and simultaneous interpretation courses which challenged me to achieve instant language transformation, I made solid progress every step of the way.
+
+In terms of academic practice, I actively participated in various projects. I once joined the translation volunteer team for an international academic conference organized by our school and was responsible for consecutive interpretation during expert lectures. 
+
+Thanks to professional training, I have mastered translation software like Trados proficiently, which empowers me to carry out efficient and high-quality translation work. This learning experience has shaped me into a professional with solid skills nowadays.
+:::
+
+::: {.content-block}
+## Work Experience
+
+I have been working as a college English teacher since 2021. In daily teaching, I tailored courses for students of different grades:
+
+- For freshmen, I focused on laying a solid foundation
+- For sophomores and juniors, I organized various activities to boost their advanced skills
+
+Outside the classroom, I engaged in teaching research projects like "[Project Name]" and guided students to success in English competitions, enhancing the campus English learning atmosphere.
+:::
+
+::: {.content-block}
+## Hobbies & Fun Facts
+
+My interests and hobbies include:
+
+- Language learning and exploring foreign cultures and civilizations
+- Watching movies and TV dramas, especially suspense films and detective dramas
+- Reading various types of books, with Agatha Christie being my favorite author
+- Traveling with friends during holidays for relaxation
+
+:::

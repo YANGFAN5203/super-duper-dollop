@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  eval: false          # 禁止执行代码
+  enabled: false       # 完全禁用执行功能
+  freeze: true         # 冻结计算结果
+  error: false         # 不显示错误
+  warning: false       # 不显示警告
+  echo: true          # 显示代码
+  include: true       # 包含代码块
+  cache: false        # 禁用缓存
+
+website:
+  title: ""
+  search: false
+  navbar:
+    background: "#aa0000"
+    left:
+      - href: index.qmd
+        text: Index
+      - href: about.qmd
+        text: About Me
+      - href: homework.qmd
+        text: Homework
+      - href: labs.qmd
+        text: Labs
+      - href: practice.qmd
+        text: Practice
+    right:
+      - icon: github
+        href: https://github.com/YANGFAN5203/super-duper-dollop/blob/main/code-basics.ipynb
+
+format:
+  html:
+    theme: 
+      light: [cosmo, styles/custom.scss]
+    css: styles/index.css
+    toc: false         # 禁用目录
