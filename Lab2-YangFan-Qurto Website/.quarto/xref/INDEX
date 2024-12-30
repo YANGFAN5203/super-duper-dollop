@@ -1,0 +1,120 @@
+{
+  "about.qmd": {
+    "about.html": "b7fbd104"
+  },
+  "homework/Lecture1-code-basics.ipynb": {
+    "Lecture1-code-basics.html": "291b31de",
+    "Lecture1-code-basics.out.ipynb": "46bc91ea",
+    "Lecture1-code-basics-preview.html": "2472bb17"
+  },
+  "homework/Lecture1-data-analysis-quickstart.ipynb": {
+    "Lecture1-data-analysis-quickstart.html": "aaa4f6b6",
+    "Lecture1-data-analysis-quickstart.out.ipynb": "68ce0fec",
+    "Lecture1-data-analysis-quickstart-preview.html": "63d2417e"
+  },
+  "homework/Lecture1-workflow-basics.ipynb": {
+    "Lecture1-workflow-basics.html": "6c27df86"
+  },
+  "homework/Lecture2-homework-pet-names.ipynb": {
+    "Lecture2-homework-pet-names.html": "d2afbc20",
+    "Lecture2-homework-pet-names.out.ipynb": "1df4d9d8",
+    "Lecture2-homework-pet-names-preview.html": "90aadc7f"
+  },
+  "homework/Lecture3-homework1-YangFan.ipynb": {
+    "Lecture3-homework1-YangFan.html": "00aca78b",
+    "Lecture3-homework1-YangFan.out.ipynb": "a2ef7849",
+    "Lecture3-homework1-YangFan-preview.html": "6a1eafa7"
+  },
+  "homework/Lecture3-homework2-YangFan.ipynb": {
+    "Lecture3-homework2-YangFan.html": "b0164776",
+    "Lecture3-homework2-YangFan.out.ipynb": "d27096fc",
+    "Lecture3-homework2-YangFan-preview.html": "62704b91"
+  },
+  "homework/Lecture4-homework-YangFan.ipynb": {
+    "Lecture4-homework-YangFan.html": "a1c4b672",
+    "Lecture4-homework-YangFan.out.ipynb": "b32d18da",
+    "Lecture4-homework-YangFan-preview.html": "520195e7"
+  },
+  "homework.qmd": {
+    "homework.html": "553ea472"
+  },
+  "index.qmd": {
+    "index.html": "4eec2877"
+  },
+  "labs/Labexercises/01Chipotle-Exercises-with-solutions.ipynb": {
+    "01Chipotle-Exercises-with-solutions.html": "b4886798",
+    "01Chipotle-Exercises-with-solutions.out.ipynb": "4332d54d",
+    "01Chipotle-Exercises-with-solutions-preview.html": "1c6f3759"
+  },
+  "labs/Labexercises/01Occupation-Exercises-with-solutions.ipynb": {
+    "01Occupation-Exercises-with-solutions.html": "4316d228",
+    "01Occupation-Exercises-with-solutions.out.ipynb": "fef10388",
+    "01Occupation-Exercises-with-solutions-preview.html": "e455ad0b"
+  },
+  "labs/Labexercises/01World-Food-Facts-Exercises-with-solutions.ipynb": {
+    "01World-Food-Facts-Exercises-with-solutions.html": "4521c78f",
+    "01World-Food-Facts-Exercises-with-solutions.out.ipynb": "321b7630",
+    "01World-Food-Facts-Exercises-with-solutions-preview.html": "931774b7"
+  },
+  "labs/Labexercises/02Chipotle-Exercises-with-solutions.ipynb": {
+    "02Chipotle-Exercises-with-solutions.html": "56d22ec4",
+    "02Chipotle-Exercises-with-solutions.out.ipynb": "318ff8a7",
+    "02Chipotle-Exercises-with-solutions-preview.html": "40b52674"
+  },
+  "labs/Labexercises/02Euro12-Exercises-with-solutions.ipynb": {
+    "02Euro12-Exercises-with-solutions.html": "83d313ec",
+    "02Euro12-Exercises-with-solutions.out.ipynb": "e2a12452",
+    "02Euro12-Exercises-with-solutions-preview.html": "0e8b17fa"
+  },
+  "labs/Labexercises/03Chipotle-Exercises-with-solutions(1).ipynb": {
+    "03Chipotle-Exercises-with-solutions(1).html": "4eefc76e",
+    "03Chipotle-Exercises-with-solutions(1).out.ipynb": "dcb3ac32",
+    "03Chipotle-Exercises-with-solutions(1)-preview.html": "c314154f"
+  },
+  "labs/Labexercises/03Scores-Exercises-with-solutions.ipynb": {
+    "03Scores-Exercises-with-solutions.html": "2d5273c0",
+    "03Scores-Exercises-with-solutions.out.ipynb": "551a4d42",
+    "03Scores-Exercises-with-solutions-preview.html": "885946d0"
+  },
+  "labs/Practice/Practice1-Climate-change.ipynb": {
+    "Practice1-Climate-change.html": "cfa2a72c",
+    "Practice1-Climate-change.out.ipynb": "cb8bad85",
+    "Practice1-Climate-change-preview.html": "776ecd79"
+  },
+  "labs/Practice/Practice2-Collecting-and-analysing-data-from-experiments.ipynb": {
+    "Practice2-Collecting-and-analysing-data-from-experiments.html": "f6d46425",
+    "Practice2-Collecting-and-analysing-data-from-experiments.out.ipynb": "cbda9255",
+    "Practice2-Collecting-and-analysing-data-from-experiments-preview.html": "ef21c339"
+  },
+  "labs/Practice/Practice2-Recreate-the-matplotlib-plots-using-letsplot-library.ipynb": {
+    "Practice2-Recreate-the-matplotlib-plots-using-letsplot-library.html": "bdc589ca",
+    "Practice2-Recreate-the-matplotlib-plots-using-letsplot-library.out.ipynb": "6c17cfb0",
+    "Practice2-Recreate-the-matplotlib-plots-using-letsplot-library-preview.html": "564ee7ed"
+  },
+  "labs/Practice/Practice3-DouBan-top250-visualizations.ipynb": {
+    "Practice3-DouBan-top250-visualizations.html": "623d250b",
+    "Practice3-DouBan-top250-visualizations.out.ipynb": "e770c705",
+    "Practice3-DouBan-top250-visualizations-preview.html": "6d6ea177"
+  },
+  "labs/Practice/Practice3-Extracting-data.ipynb": {
+    "Practice3-Extracting-data.html": "b89c7de2",
+    "Practice3-Extracting-data.out.ipynb": "a57d2241",
+    "Practice3-Extracting-data-preview.html": "22411576"
+  },
+  "labs/Practice/Practice3-scrape-imdb-movie-rating-and-details.ipynb": {
+    "Practice3-scrape-imdb-movie-rating-and-details.html": "bee5c7ce",
+    "Practice3-scrape-imdb-movie-rating-and-details.out.ipynb": "fb9a7000",
+    "Practice3-scrape-imdb-movie-rating-and-details-preview.html": "ca606f3d"
+  },
+  "labs/Practice/Practice4-IMDb-and-Douban-top-250-movie-datasets.ipynb": {
+    "Practice4-IMDb-and-Douban-top-250-movie-datasets.html": "9265f048",
+    "Practice4-IMDb-and-Douban-top-250-movie-datasets.out.ipynb": "2a8ad8f6",
+    "Practice4-IMDb-and-Douban-top-250-movie-datasets-preview.html": "3c76170a"
+  },
+  "labs.qmd": {
+    "labs.html": "21afa498"
+  },
+  "practice.qmd": {
+    "practice.html": "1f5fbb75"
+  }
+}

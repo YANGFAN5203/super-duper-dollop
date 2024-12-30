@@ -1,0 +1,12 @@
+{
+  "hash": "23cf729217a5aa9e4d6f81d44b82f8d9",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n\n\n# 01Chipotle-Exercises-with-solutions\n\n\n\n\n{{< embed \"labs/Labexercises/01Chipotle-Exercises-with-solutions.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 01Occupation-Exercises-with-solutions\n\n\n\n\n{{< embed \"labs/Labexercises/01Occupation-Exercises-with-solutions.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 01World-Food-Facts-Exercises-with-solutions\n\n\n\n\n{{< embed \"labs/Labexercises/01World-Food-Facts-Exercises-with-solutions.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 02Chipotle-Exercises-with-solutions\n\n\n\n\n{{< embed \"labs/Labexercises/02Chipotle-Exercises-with-solutions.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 02Euro12-Exercises-with-solutions\n\n\n\n\n{{< embed \"labs/Labexercises/02Euro12-Exercises-with-solutions.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 03Chipotle-Exercises-with-solutions(1)\n\n\n\n\n{{< embed \"labs/Labexercises/03Chipotle-Exercises-with-solutions(1).ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 03Scores-Exercises-with-solutions\n\n\n\n\n{{< embed \"labs/Labexercises/03Scores-Exercises-with-solutions.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "labs_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
